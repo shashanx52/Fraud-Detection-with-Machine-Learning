@@ -59,8 +59,3 @@ The notebook concludes with a section displaying the performance of the trained 
 ## Contributing
 
 Contributions, issues, and feature requests are welcome! 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-Feel free to modify or add any specific details to better fit your project!
